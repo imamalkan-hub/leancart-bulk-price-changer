@@ -1,0 +1,45 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: LeanCart Bulk Price Changer\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "%d products updated."
+msgstr ""
+
+msgid "Apply"
+msgstr ""
+
+msgid "Bulk price"
+msgstr ""
+
+msgid "Bulk price change"
+msgstr ""
+
+msgid "Create backup"
+msgstr ""
+
+msgid "Example site:"
+msgstr ""
+
+msgid "Settings"
+msgstr ""
+
+msgid "Shortcuts"
+msgstr ""
+
+msgid "Store old prices as metadata before making changes."
+msgstr ""
+
+msgid "This plugin requires WooCommerce to be active."
+msgstr ""
+
+msgid "Undo"
+msgstr ""
+
+msgid "WooCommerce Settings"
+msgstr ""
+
+msgid "You are not allowed to access this page."
+msgstr ""
